@@ -1,0 +1,44 @@
+"Grainger Engineering Library" 
+543
+"Campus Instructional Facility (CIF)"
+5124
+"Business Instructional Facility"
+51245
+"Funk Agricultural, Consumer, and Environmental Sciences Library (Funk ACES)"
+234
+"Electrical and Computer Engineering Building"
+523
+"Siebel Center for Design"
+1245
+"Thomas M. Siebel Center for Computer Science"
+2342
+"Caffe Bene"
+3124
+"Undergraduate Library"
+341234
+"Main Library"
+1231
+"Illini Union"
+51244
+"Ikenberry Commons Residence Hall Library"
+35542
+"Krannert Center for the Performing Arts"
+5324
+"Sidney Lu Mechanical Engineering Building"
+32345
+"Loomis Laboratory Of Physics, University Of Illinois"
+12444
+"Music and Performing Arts Library"
+012411
+"Communications Library"
+435412314
+"Etc. Coffeehouse"
+12311
+"Beckman Institute"
+44131231
+"Everitt Laboratory"
+1231
+"BrewLab Coffee"
+352456
+"Testing Place"
+34532324
